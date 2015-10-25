@@ -1,0 +1,105 @@
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" type="text/css" href="bootstrap_v3/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="bootstrap_v3/css/grid.css">
+</head>
+<body>
+<div class="container show-grid">
+<div class="row">
+<div class="col-md-4">
+<div role="tabpanel" >
+<li role="presentation" class="active"><a href="#old" aria-controls="home" role="tab" data-toggle="tab">Old Testament</a></li>
+<li role="presentation"><a href="#new" aria-controls="profile" role="tab" data-toggle="tab">New Testament</a></li>
+</ul>
+<div class="tab-content">
+<div role="tabpanel" class="tab-pane fade in active" id="old">
+<table class="table table-striped">
+<tr>
+<td>Genesis</td>
+<td><button type = "button" class = "btn btn-info">Read</button></td>
+<td><button type = "button" class = "btn btn-info">Info</button></td>
+<td><button type = "button" class = "btn btn-info">Watch</button></td>
+</tr>
+<tr>
+<td>Exodus</td>
+<td><button type = "button" class = "btn btn-info">Read</button></td>
+<td><button type = "button" class = "btn btn-info">Info</button></td>
+<td><button type = "button" class = "btn btn-info">Watch</button></td>
+</tr>
+<tr>
+<td>Leviticus</td>
+<td><button type = "button" class = "btn btn-info">Read</button></td>
+<td><button type = "button" class = "btn btn-info">Info</button></td>
+<td><button type = "button" class = "btn btn-info">Watch</button></td>
+</tr>
+<tr>
+<td>Genesis</td>
+<td><button type = "button" class = "btn btn-info">Read</button></td>
+<td><button type = "button" class = "btn btn-info">Info</button></td>
+<td><button type = "button" class = "btn btn-info">Watch</button></td>
+</tr>
+<tr>
+<td>Exodus</td>
+<td><button type = "button" class = "btn btn-info">Read</button></td>
+<td><button type = "button" class = "btn btn-info">Info</button></td>
+<td><button type = "button" class = "btn btn-info">Watch</button></td>
+</tr>
+<tr>
+<td>Leviticus</td>
+<td><button type = "button" class = "btn btn-info">Read</button></td>
+<td><button type = "button" class = "btn btn-info">Info</button></td>
+<td><button type = "button" class = "btn btn-info">Watch</button></td>
+</tr>
+</table>
+</div>
+
+
+<div role="tabpanel" class="tab-pane fade" id="new">
+<table class="table table-striped">
+<tr>
+<td>Matthew</td>
+<td><button type="button" class="btn btn-primary">Read</button></td>
+<td><button type="button" class="btn btn-primary">Info</button></td>
+<td><button type="button" class="btn btn-primary">Watch</button></td>
+</tr>
+<tr>
+<td>Acts</td>
+<td><button type="button" class="btn btn-primary">Read</button></td>
+<td><button type="button" class="btn btn-primary">Info</button></td>
+<td><button type="button" class="btn btn-primary">Watch</button></td>
+</tr>
+<tr>
+<td>Acts</td>
+<td><button type="button" class="btn btn-primary">Read</button></td>
+<td><button type="button" class="btn btn-primary">Info</button></td>
+<td><button type="button" class="btn btn-primary">Watch</button></td>
+</tr>
+<tr>
+<td>Matthew</td>
+<td><button type="button" class="btn btn-primary">Read</button></td>
+<td><button type="button" class="btn btn-primary">Info</button></td>
+<td><button type="button" class="btn btn-primary">Watch</button></td>
+</tr>
+<tr>
+<td>Acts</td>
+<td><button type="button" class="btn btn-primary">Read</button></td>
+<td><button type="button" class="btn btn-primary">Info</button></td>
+<td><button type="button" class="btn btn-primary">Watch</button></td>
+</tr>
+<tr>
+<td>Acts</td>
+<td><button type="button" class="btn btn-primary">Read</button></td>
+<td><button type="button" class="btn btn-primary">Info</button></td>
+<td><button type="button" class="btn btn-primary">Watch</button></td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+  <div class="col-md-8">Content</div>
+
+ 		<script type="text/javascript" src = "jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="bootstrap_v3/css/bootstrap.js"></script>
+	</body>
+	</html>
